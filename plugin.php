@@ -250,6 +250,7 @@ function dlb_is_crawler() {
 	'robot',
 	'support.paper.li',
 	'Mozilla/5.0 (X11; U; Linux i686; it; rv:',
+	'http-client',
 
     );
     
