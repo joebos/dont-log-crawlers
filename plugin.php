@@ -249,6 +249,7 @@ function dlb_is_crawler() {
 	'everyonesocial.com',
 	'robot',
 	'support.paper.li',
+	'Mozilla/5.0 (X11; U; Linux i686; it; rv:',
 
     );
     
